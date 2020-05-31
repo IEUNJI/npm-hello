@@ -1,16 +1,16 @@
-# @ieunji/hello
+# @linzijun/hello
 
 Say hello to npm.
 
 ## Install
 
 ```sh
-npm install -g @ieunji/hello
+npm install -g @linzijun/hello
 ```
 
 ## Command Line
 
 ```sh
-> ieunji-hello
+> linzijun-hello
 hello npm!
 ```

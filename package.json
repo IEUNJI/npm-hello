@@ -6,6 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bin": {
+    "ieunji-hello": "bin/ieunji-hello"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/IEUNJI/npm-hello.git"
